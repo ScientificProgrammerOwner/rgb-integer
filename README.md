@@ -2,7 +2,7 @@
 Converting decimal integers to rgb values or converting rgb values to decimal integers.
 
 ## eg. 1
-'''
+'''matlab
 rgb1 = [1 2 3];
 dec1 = rgb2dec(rgb1);
 dec1 =
