@@ -2,15 +2,15 @@
 Converting decimal integers to rgb values or converting rgb values to decimal integers.
 
 ## eg. 1
-'''matlab
+```matlab
 rgb1 = [1 2 3];
 dec1 = rgb2dec(rgb1);
 dec1 =
        66051
-'''
+```
 
 ## eg. 2
-'''
+```
 rgb2 = [1 2 3;4 5 6;7 8 9;10 11 12];
 dec2 = rgb2dec(rgb2);
 dec2 =
@@ -19,7 +19,7 @@ dec2 =
       263430
       460809
       658188
-'''
+```
       
 ## eg. 2 R1,G1,B1 to dec3:
 'R1 = 1;
