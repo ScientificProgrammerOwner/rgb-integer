@@ -1,5 +1,5 @@
 # rgb2integer
-<img src="https://github.com/ScientificProgrammerOwner/rgb2integer/blob/main/pic.png" style="zoom:50%;" />
+<img src="https://github.com/ScientificProgrammerOwner/rgb2integer/blob/main/pic.png#pic_center" style="zoom:50%;" />
 
 Converting decimal integers to rgb values or converting rgb values to decimal integers.
 
