@@ -1,6 +1,6 @@
 # rgb2integer
 Converting decimal integers to rgb values or converting rgb values to decimal integers.
-[!image](https://github.com/ScientificProgrammerOwner/rgb2integer/blob/main/pic.png)
+<img src="https://github.com/ScientificProgrammerOwner/rgb2integer/blob/main/pic.png" alt="Image text" style="zoom:50%;" />
 ## rgb2dec
 ### eg. 1 rgb1 to dec1
 ```matlab
